@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikiPoznan
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning how to program
+- 👀 I'm certified couch potato
+- 🌱 My code makes other laugh and me cry
 
 
 <!---
