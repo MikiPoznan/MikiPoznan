@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikiPoznan
-- 👀 I'm certified couch potato
+- 👀 I'm a certified couch potato
 - 🌱 My code makes other laugh and me cry
 
 
